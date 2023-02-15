@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatiana-lee
 - 👀 I’m interested in JS and React
-- 🌱 I’m currently learning React and Redux
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me lee_td@hotmail.com
 - Telegram @lee_td

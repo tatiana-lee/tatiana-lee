@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me lee_td@hotmail.com
-- Telegram @lee_td
+- 📲 Telegram [@lee_td](https://t.me/lee_td)
 
 <!---
 tatiana-lee/tatiana-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
